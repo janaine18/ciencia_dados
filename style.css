@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap');
 
 :root {
@@ -49,7 +50,7 @@ nav a:hover {
     margin: 5rem;
 }
 footer {
-    dislay: flex;
+    display: flex;
     align-items: center;
     justify-content: center;
     background-color: var(--primary-color);
@@ -58,7 +59,7 @@ footer {
     height: 3rem;
     margin-top: 2rem;
 }
-span{ 
+span {
     font-weight: bold;
     color: white;
     background-color: var(--secundary-color);
